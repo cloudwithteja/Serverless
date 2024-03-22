@@ -15,6 +15,11 @@ Create a Lambda function from AWS console with Python as the language
 Create appropriate IAM role
 Once Lambda is created, paste the code from the python programs into your Lambda code
 Save and run the Lambda function!
+# How to run?
+Create a Lambda function from AWS console with Python as the language
+Create appropriate IAM role
+Once Lambda is created, paste the code from the python programs into your Lambda code
+Save and run the Lambda function!
 
 
 
